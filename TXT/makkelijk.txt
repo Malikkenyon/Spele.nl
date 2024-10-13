@@ -1,0 +1,10 @@
+hond
+kat
+boom
+lamp
+vis
+auto
+boot
+huis
+zon
+maan
